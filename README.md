@@ -5,6 +5,8 @@ This API accepts a string as a request and returns a swear word if it exists in 
 ### API : https://noswearwordsapi-production.up.railway.app/
 
 ### POST : https://noswearwordsapi-production.up.railway.app/check-for-swear-words
+#### If the above API doesn't work, use this one instead 👇
+### POST : https://marvelously-shiny-neutrino-castle.wayscript.cloud/check-for-swear-words
 
 #### Example :
 
